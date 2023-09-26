@@ -1,5 +1,5 @@
 # [choi-m.github.io](https://choi-m.github.io/)
 
 
-website ^ 
-currently, experiencing issue in which webpage is not updating w/ index.html
+Website above:
+In progress as of September 26th 2023
