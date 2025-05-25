@@ -14,7 +14,7 @@
 const textEl = document.getElementById('text');
 const speedEl = document.getElementById('speed');
 const textEl2 = document.getElementById('text2');
-const text2 = 'Art Portfolio';
+const text2 = 'Project Portfolio';
 const text = 'Michelle Choi';
 
 let idx = 0;
